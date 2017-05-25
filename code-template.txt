@@ -1,13 +1,13 @@
 #region Constant Fields
 #endregion
 
-#region Fields
+#region Fields & Properties
 #endregion
 
 #region Constructors
 #endregion
 
-#region Finalizers (Destructors)
+#region Destructors
 #endregion
 
 #region Delegates
@@ -17,15 +17,6 @@
 #endregion
 
 #region Enums
-#endregion
-
-#region Interfaces
-#endregion
-
-#region Properties
-#endregion
-
-#region Indexers
 #endregion
 
 #region Public Methods
