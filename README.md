@@ -28,7 +28,7 @@ Si consiglia di definire il Code Template come segue:
 
 Per utilizzare lo snippet è necessario digitare la shortcut (es.:`def`) e premere 2 volte il tasto <kbd>Tab</kbd> per confermare e aggiungere il Template Text nel codice.
 
-#### Interface implementation
+### Interface implementation
 Quando si crea una classe che implementa un'interfaccia è buona norma riportare tutte le implementazioni dei metodi dell'interfaccia nella stessa area di codice. In `C#` è possibile utilizzare le `partial class` per raggiungere questo obiettivo.
 Esempio:
 ```csharp
