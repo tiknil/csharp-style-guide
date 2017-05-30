@@ -1,0 +1,10 @@
+private $type$ $fieldName$;
+public $type$ $propertyName$
+{
+    get { return $fieldName$; }
+    set
+    {
+        $fieldName$ = value;
+        RaisePropertyChanged("$propertyName$");
+    }
+}

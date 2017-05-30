@@ -1,0 +1,2 @@
+[JsonProperty("$jsonname$")]
+public $type$ $name$ { get; set; }
