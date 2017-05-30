@@ -24,7 +24,7 @@ Si consiglia di definire il Code Template come segue:
 * Group: `C#`
 * Mime: `text/x-csharp`
 * Is expandable template: `true`
-* Template Text: utilizzare il file `code-template.txt` contenuto in questa repo,
+* Template Text: utilizzare il file `def.txt` contenuto in questa repo,
 
 Per utilizzare lo snippet è necessario digitare la shortcut (es.:`def`) e premere 2 volte il tasto <kbd>Tab</kbd> per confermare e aggiungere il Template Text nel codice.
 
